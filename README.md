@@ -10,11 +10,10 @@
 
 | Resource | URL |
 |---|---|
-| 📊 WandB Report | [https://wandb.ai/shivangbhargav-krsna-/da6401-transformer-q21/reports/Assignment-3-Implementing-a-Transformer-for-Machine-Translation--VmlldzoxNjg2MzE4MA?accessToken=fkf9ss1elnwkz5b7kignha79k4w91nysud066ukux0upeiyqxrw4mid86rhta164](https://wandb.ai/YOUR_WANDB_USERNAME/YOUR_PROJECT_NAME) |
-| 💻 GitHub Repository | [https://github.com/ee25s076-hue/DA6401__Assignment3__EE25S076_.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME) |
+| 📊 WandB Report | [Wandb Report Assignment 3](https://wandb.ai/shivangbhargav-krsna-/da6401-transformer-q21/reports/Assignment-3-Implementing-a-Transformer-for-Machine-Translation--VmlldzoxNjg2MzE4MA?accessToken=fkf9ss1elnwkz5b7kignha79k4w91nysud066ukux0upeiyqxrw4mid86rhta164) |
+| 💻 GitHub Repository | [Github Repo](https://github.com/ee25s076-hue/DA6401__Assignment3__EE25S076_.git) |
 | 📄 Base Paper | [Attention Is All You Need – NeurIPS 2017](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) |
 
-> ⚠️ **Replace the placeholder WandB and GitHub URLs above with your actual links.**
 
 ---
 
